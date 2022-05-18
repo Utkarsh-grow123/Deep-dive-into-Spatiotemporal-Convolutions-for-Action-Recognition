@@ -15,14 +15,28 @@ In this paper, we propose an improved R(2+3)D architecture that is superior to t
 
 ### UCF101
 
-Download the UCF101 Dataset in form of frames from [here]([https://www.kaggle.com/datasets/pevogam/ucf101-frames?resource=download])
+Download the UCF101 Dataset in form of frames from [here][https://www.kaggle.com/datasets/pevogam/ucf101-frames?resource=download]
 
 
 Caution: This dataset takes about one week to train, for efficiency, we have added our pre-trained model weights here. We have also attached our results to view directly.
 
+Data folder for data augmentation
+Models is for the model we used and pre-existing model for comparison
 
 
-
+| Method           | Pre-trained | UCF101 Accuracy     |                                                                                                     |
+| -------------- | --------- | ---------- | -------------- | -------------- | 
+| I3D-RGB             | none          | 67.5     |
+| I3D-RGB             | image-net     | 72.5     |
+| I3D-FLOW            | image-net     | 65.3     |
+| I3D-TWO STREAM      | image-net     | 75.7     |
+| R(2+1)D-RGB         | none          | 75.7     |
+| R(2+1)D-FLOW        | none          | 67.5     |
+| R(2+1)D-TWO STREAM  | none          | 73.9     |
+| R(2+1)D-RGB         | Sports-1M     | 74.3     |
+| R(2+1)D-FLOW        | Sports-1M     | 68.5     |
+| R(2+1)D-TWO STREAM  | Sports-1M     | 75.4     |
+| R(2+3)D-RGB         | Kinetics-400  | 86.8     |
 
 
 
