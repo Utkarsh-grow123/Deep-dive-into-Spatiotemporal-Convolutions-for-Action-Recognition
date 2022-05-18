@@ -15,7 +15,7 @@ In this paper, we propose an improved R(2+3)D architecture that is superior to t
 
 ### UCF101
 
-Download the UCF101 Dataset in form of frames from [here][https://www.kaggle.com/datasets/pevogam/ucf101-frames?resource=download]
+Download the UCF101 Dataset in form of frames from [here](https://www.kaggle.com/datasets/pevogam/ucf101-frames?resource=download)
 
 
 Caution: This dataset takes about one week to train, for efficiency, we have added our pre-trained model weights here. We have also attached our results to view directly.
@@ -37,7 +37,6 @@ Models is for the model we used and pre-existing model for comparison
 | R(2+1)D-FLOW        | Sports-1M     | 68.5     |
 | R(2+1)D-TWO STREAM  | Sports-1M     | 75.4     |
 | R(2+3)D-RGB         | Kinetics-400  | 86.8     |
-
 
 
 
