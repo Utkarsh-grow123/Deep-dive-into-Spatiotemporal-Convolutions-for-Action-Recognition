@@ -9,15 +9,11 @@ In this paper, we propose an improved R(2+3)D architecture that is superior to t
 
 ### UCF101
 
-Download the UCF101 Dataset in form of frames from [here]([http://image-net.org/](https://www.kaggle.com/datasets/pevogam/ucf101-frames?resource=download)),
+Download the UCF101 Dataset in form of frames from [here]([http://image-net.org/]([https://www.kaggle.com/datasets/pevogam/ucf101-frames?resource=download](https://www.kaggle.com/datasets/pevogam/ucf101-frames?resource=download))),
 
 ```
-This Dayaset take around one week of training hence we have put out pre-trained model weights here for anyone to use
 
-
-
-
-
+This dataset takes about one week to train, for efficiency, we have added our pre-trained model weights here.
 
 
 
