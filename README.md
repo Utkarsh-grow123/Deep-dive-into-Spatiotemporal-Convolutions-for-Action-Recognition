@@ -4,7 +4,6 @@ Welcome to the Final Project for Deep Learning ECE-GY 7123. This project was don
 * Utkarsh Grover ug2018@nyu.edu 
 * Abirami Ravishankar ar7115@nyu.edu 
 
-This is the PyTorch implementation : **Deep-dive-into-Spatiotemporal-Convolutions-for-Action-Recognition**.
 
 tl;dr
 
@@ -23,6 +22,9 @@ Caution: This dataset takes about one week to train, for efficiency, we have add
  
  
  slurm-30949.out : This is the .out file that has a vivid description of results of our code. This is done because this model takes weeks to pre-train on Kinetic dataset and then test on UCF101. Hence we have uploaded this file for easy understanding of our proceedings.
+
+This is a PyTorch implementation.
+
 
 ## Result 
 
