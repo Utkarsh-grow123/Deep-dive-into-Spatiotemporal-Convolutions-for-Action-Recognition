@@ -26,8 +26,8 @@ Models is for the model we used and pre-existing model for comparison
 
 ### Key Results
 
-| Method           | Pre-trained | UCF101 Accuracy                                             |
-| ------- | --------- | ---------- | -------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Method           | Pre-trained | UCF101 Accuracy     |                                                                                                     |
+| -------------- | --------- | ---------- | -------------- | -------------- | 
 | I3D-RGB             | none          | 67.5     |
 | I3D-RGB             | image-net     | 72.5     |
 | I3D-FLOW            | image-net     | 65.3     |
@@ -39,4 +39,3 @@ Models is for the model we used and pre-existing model for comparison
 | R(2+1)D-FLOW        | Sports-1M     | 68.5     |
 | R(2+1)D-TWO STREAM  | Sports-1M     | 75.4     |
 | R(2+3)D-RGB         | Kinetics-400  | 86.8     |
-
