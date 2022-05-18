@@ -26,7 +26,7 @@ Models is for the model we used and pre-existing model for comparison
 
 ### Key Results
 
-| Method           | Pre-trained | UCF101 Accuracy     |                                                                                                     |
+| Method           | Pre-trained | UCF101 Accuracy     | ----------------------------------------------------------------|-------------------------------|log                                                                                                  |
 | -------------- | --------- | ---------- | -------------- | -------------- | 
 | I3D-RGB             | none          | 67.5     |
 | I3D-RGB             | image-net     | 72.5     |
