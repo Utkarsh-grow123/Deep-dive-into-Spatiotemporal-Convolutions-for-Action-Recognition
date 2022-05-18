@@ -20,6 +20,8 @@ Caution: This dataset takes about one week to train, for efficiency, we have add
 
  data : Data folder for data augmentation
  Models : Models folder is for the model R(2+1)D and R(3+2)D 
+ 
+ 
  slurm-30949.out : This is the .out file that has a vivid description of results of our code. This is done because this model takes weeks to pre-train on Kinetic dataset and then test on UCF101. Hence we have uploaded this file for easy understanding of our proceedings.
 
 ### Key Results
