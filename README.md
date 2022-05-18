@@ -28,16 +28,16 @@ This Dayaset take around one week of training hence we have put out pre-trained 
 | Method           | Pre-trained | UCF101 Accuracy     |                                                                                                     |
 | -------------- | --------- | ---------- | -------------- | -------------- | 
 | I3D-RGB             | none          | 67.5     |
-| I3D-RGB             | image-net     | 67.5     |
-| I3D-FLOW            | image-net     | 67.5     |
-| I3D-TWO STREAM      | image-net     | 67.5     |
-| R(2+1)D-RGB         | none          | 67.5     |
+| I3D-RGB             | image-net     | 72.5     |
+| I3D-FLOW            | image-net     | 65.3     |
+| I3D-TWO STREAM      | image-net     | 75.7     |
+| R(2+1)D-RGB         | none          | 75.7     |
 | R(2+1)D-FLOW        | none          | 67.5     |
-| R(2+1)D-TWO STREAM  | none          | 67.5     |
-| R(2+1)D-RGB         | Sports-1M     | 67.5     |
-| R(2+1)D-FLOW        | Sports-1M     | 67.5     |
-| R(2+1)D-TWO STREAM  | Sports-1M     | 67.5     |
-| R(2+3)D-RGB         | none          | 67.5     |
+| R(2+1)D-TWO STREAM  | none          | 73.9     |
+| R(2+1)D-RGB         | Sports-1M     | 74.3     |
+| R(2+1)D-FLOW        | Sports-1M     | 68.5     |
+| R(2+1)D-TWO STREAM  | Sports-1M     | 75.4     |
+| R(2+3)D-RGB         | Kinetics-400  | 86.8     |
 
 
 
