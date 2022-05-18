@@ -26,7 +26,7 @@ This Dayaset take around one week of training hence we have put out pre-trained 
 ### Main Results
 
 | Method           | Pre-trained | UCF101 Accuracy     |                                                                                                     |
-| -------------- | --------- | ---------- | -------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| -------------- | --------- | ---------- | -------------- | -------------- | 
 | I3D-RGB             | none          | 67.5     |
 | I3D-RGB             | image-net     | 67.5     |
 | I3D-FLOW            | image-net     | 67.5     |
