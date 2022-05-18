@@ -24,18 +24,3 @@ Caution: This dataset takes about one week to train, for efficiency, we have add
  
  slurm-30949.out : This is the .out file that has a vivid description of results of our code. This is done because this model takes weeks to pre-train on Kinetic dataset and then test on UCF101. Hence we have uploaded this file for easy understanding of our proceedings.
 
-### Key Results
-
-| Method           | Pre-trained | UCF101 Accuracy                                                        | Log                                                          |
-| -------------- | --------- | ---------- | -------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| I3D-RGB             | none          | 67.5     |
-| I3D-RGB             | image-net     | 72.5     |
-| I3D-FLOW            | image-net     | 65.3     |
-| I3D-TWO STREAM      | image-net     | 75.7     |
-| R(2+1)D-RGB         | none          | 75.7     |
-| R(2+1)D-FLOW        | none          | 67.5     |
-| R(2+1)D-TWO STREAM  | none          | 73.9     |
-| R(2+1)D-RGB         | Sports-1M     | 74.3     |
-| R(2+1)D-FLOW        | Sports-1M     | 68.5     |
-| R(2+1)D-TWO STREAM  | Sports-1M     | 75.4     |
-| R(2+3)D-RGB         | Kinetics-400  | 86.8     |
