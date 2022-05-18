@@ -28,4 +28,4 @@ This is a PyTorch implementation.
 
 ## Result 
 
-![alt text]([https://github.com/[Utkarsh-grow123]/[Deep-dive-into-Spatiotemporal-Convolutions-for-Action-Recognition]/blob/[main]/table.jpg](https://github.com/Utkarsh-grow123/Deep-dive-into-Spatiotemporal-Convolutions-for-Action-Recognition/blob/main/Table.png)?raw=true)
+![alt text](https://github.com/Utkarsh-grow123/Deep-dive-into-Spatiotemporal-Convolutions-for-Action-Recognition/blob/main/Table.png)?raw=true)
