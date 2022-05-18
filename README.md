@@ -26,4 +26,4 @@ Caution: This dataset takes about one week to train, for efficiency, we have add
 
 ## Result 
 
-![alt text](https://github.com/[utkarsh-grow123]/[Deep-dive-into-Spatiotemporal-Convolutions-for-Action-Recognition]/blob/[main]/table.png?raw=true)
+![alt text](https://github.com/[utkarsh-grow123]/[Deep-dive-into-Spatiotemporal-Convolutions-for-Action-Recognition]/blob/[main]/table.jpg?raw=true)
